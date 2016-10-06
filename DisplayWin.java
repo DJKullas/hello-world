@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class DisplayWin extends AppCompatActivity {
 
-    String winner = "poop";
+    String winner = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
